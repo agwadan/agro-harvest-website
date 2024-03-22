@@ -22,6 +22,7 @@
 .btn-primary,
 .btn-outline-primary:hover {
     color: var(--bs-light);
+    background-color: var(--bs-primary);
 }
 
 .btn-secondary,
